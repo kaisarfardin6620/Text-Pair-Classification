@@ -18,7 +18,7 @@ We compare multiple machine learning and deep learning models to evaluate their 
 ## **2. Dataset Description**
 - **File:** `train.csv`  
 - **Total Rows:** 12,120  
-- **Columns:**  
+- **Columns:**  6
   - `id`: Unique identifier for each instance  
   - `premise`: First sentence  
   - `hypothesis`: Second sentence related to the premise  
