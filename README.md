@@ -55,7 +55,7 @@ pip install numpy pandas matplotlib seaborn sklearn xgboost tensorflow transform
 
 
 
-4.2 Running the Notebook
+### **4.2 Running the Notebook**
 
 1. Open Google Colab or Jupyter Notebook.
 
