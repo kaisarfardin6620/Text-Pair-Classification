@@ -148,7 +148,4 @@ Abdullah Kaisar Fardin
 Contributions: Data Preprocessing, Model Training, Evaluation, Report Writing
 
 
-This is a **fully formatted** markdown file, so you can **copy-paste** it directly into a `README.md` file.  
-
-Make sure to update the **Model Evaluation Table** (`Section 5`) with actual results! Let me know if you need any modifications.
 
