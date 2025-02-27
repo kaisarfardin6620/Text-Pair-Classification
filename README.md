@@ -1,5 +1,4 @@
 # Text-Pair-Classification
-# Multilingual Natural Language Inference (NLI) Model
 
 ## **1. Project Overview**
 This project focuses on **Natural Language Inference (NLI)**, a crucial task in Natural Language Processing (NLP), where models classify the relationship between sentence pairs into three categories:  
