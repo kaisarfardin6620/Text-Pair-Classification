@@ -88,8 +88,6 @@ Recall: Measures how many actual positive labels were correctly identified.
 F1 Score: Harmonic mean of precision and recall, balancing both metrics.
 
 
-> Note: Fill in the table with actual evaluation metrics from your notebook results.
-
 
 
 
