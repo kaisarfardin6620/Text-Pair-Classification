@@ -53,3 +53,98 @@ Ensure you have the following libraries installed before running the code:
 pip install numpy pandas matplotlib seaborn sklearn xgboost tensorflow transformers
 
 
+
+
+### **4.2 Running the Notebook
+
+1. Open Google Colab or Jupyter Notebook.
+
+
+2. Upload the dataset (train.csv).
+
+
+3. Load and execute the Untitled3.ipynb notebook step by step.
+
+
+4. Train and evaluate different models on the dataset.
+
+
+5. Visualize results using confusion matrices and performance metrics.
+
+
+
+
+---
+
+### **5. Model Evaluation Results
+
+The models were evaluated using the following metrics:
+
+Accuracy: Measures overall correctness.
+
+Precision: Measures how many predicted positive labels were actually correct.
+
+Recall: Measures how many actual positive labels were correctly identified.
+
+F1 Score: Harmonic mean of precision and recall, balancing both metrics.
+
+
+
+
+---
+
+### **6. Confusion Matrix
+
+A confusion matrix helps visualize model performance by showing the number of correct and incorrect predictions for each class.
+
+A heatmap of the confusion matrix is included in the notebook for a better understanding of misclassified instances.
+
+The ideal model should have high values along the diagonal, indicating correct classifications.
+
+Models with significant misclassification rates may require further optimization.
+
+
+
+---
+
+### **7. Future Improvements
+
+To further enhance model performance, consider the following improvements:
+
+Hyperparameter Tuning: Use GridSearchCV or Bayesian Optimization to find optimal model parameters.
+
+BERT Fine-Tuning: Re-enable and optimize BERT for improved language understanding.
+
+Data Augmentation: Use paraphrasing techniques or back-translation to increase training data.
+
+Feature Engineering: Experiment with Word2Vec, FastText, and Sentence-BERT embeddings.
+
+Hybrid Models: Combine traditional ML models with deep learning architectures to improve performance.
+
+
+
+---
+
+### **8. Additional Notes
+
+The code was developed and tested in Google Colab.
+
+BERT-based training was commented out due to high computational requirements.
+
+The project includes visualizations (confusion matrices, accuracy plots, and feature importance charts) for better interpretability.
+
+If using local execution, ensure you have sufficient GPU resources for deep learning models.
+
+
+
+---
+
+### **9. Authors & Contributors
+
+Abdullah Kaisar Fardin
+
+Contributions: Data Preprocessing, Model Training, Evaluation, Report Writing
+
+
+
+
