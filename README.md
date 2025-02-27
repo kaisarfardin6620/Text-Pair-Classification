@@ -1,4 +1,6 @@
-# Text-Pair-Classification
+Yes! Here’s the full README.md content in proper Markdown format:
+
+# Multilingual Natural Language Inference (NLI) Model
 
 ## **1. Project Overview**
 This project focuses on **Natural Language Inference (NLI)**, a crucial task in Natural Language Processing (NLP), where models classify the relationship between sentence pairs into three categories:  
@@ -52,10 +54,7 @@ Ensure you have the following libraries installed before running the code:
 ```bash
 pip install numpy pandas matplotlib seaborn sklearn xgboost tensorflow transformers
 
-
-
-
-### **4.2 Running the Notebook**
+4.2 Running the Notebook
 
 1. Open Google Colab or Jupyter Notebook.
 
@@ -76,7 +75,7 @@ pip install numpy pandas matplotlib seaborn sklearn xgboost tensorflow transform
 
 ---
 
-### **5. Model Evaluation Results
+5. Model Evaluation Results
 
 The models were evaluated using the following metrics:
 
@@ -89,11 +88,14 @@ Recall: Measures how many actual positive labels were correctly identified.
 F1 Score: Harmonic mean of precision and recall, balancing both metrics.
 
 
+> Note: Fill in the table with actual evaluation metrics from your notebook results.
+
+
 
 
 ---
 
-### **6. Confusion Matrix
+6. Confusion Matrix
 
 A confusion matrix helps visualize model performance by showing the number of correct and incorrect predictions for each class.
 
@@ -107,7 +109,7 @@ Models with significant misclassification rates may require further optimization
 
 ---
 
-### **7. Future Improvements
+7. Future Improvements
 
 To further enhance model performance, consider the following improvements:
 
@@ -125,7 +127,7 @@ Hybrid Models: Combine traditional ML models with deep learning architectures to
 
 ---
 
-### **8. Additional Notes
+8. Additional Notes
 
 The code was developed and tested in Google Colab.
 
@@ -139,12 +141,14 @@ If using local execution, ensure you have sufficient GPU resources for deep lear
 
 ---
 
-### **9. Authors & Contributors
+9. Authors & Contributors
 
 Abdullah Kaisar Fardin
 
 Contributions: Data Preprocessing, Model Training, Evaluation, Report Writing
 
 
+This is a **fully formatted** markdown file, so you can **copy-paste** it directly into a `README.md` file.  
 
+Make sure to update the **Model Evaluation Table** (`Section 5`) with actual results! Let me know if you need any modifications.
 
