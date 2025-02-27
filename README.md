@@ -53,26 +53,3 @@ Ensure you have the following libraries installed before running the code:
 pip install numpy pandas matplotlib seaborn sklearn xgboost tensorflow transformers
 
 
-
-
----
-
-### **Explanation of Each Section**
-1. **Project Overview** → Briefly explains what the project is about.  
-2. **Dataset Description** → Provides information on dataset structure and target labels.  
-3. **Model Implementation Details** → Lists preprocessing steps and models used.  
-4. **Steps to Run the Code** → Guides the user on how to install dependencies and execute the notebook.  
-5. **Model Evaluation Results** → Summarizes accuracy, precision, recall, and F1 scores.  
-6. **Confusion Matrix** → Mentions how the confusion matrix helps in model analysis.  
-7. **Future Improvements** → Suggests enhancements to boost performance.  
-8. **Additional Notes** → Extra details about execution, BERT skipping, and visualization.  
-9. **Authors & Contributors** → Your name and role in the project.  
-
----
-
-### **Final Steps**
-✅ **Copy-paste this README.md into your GitHub repository.**  
-✅ **Fill in missing accuracy, precision, recall, and F1-score values from your notebook results.**  
-✅ **Ensure all instructions match your execution environment.**  
-
-Let me know if you need any modifications!
