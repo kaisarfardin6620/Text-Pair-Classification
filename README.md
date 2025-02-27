@@ -50,7 +50,7 @@ The dataset is **multilingual**, meaning that it contains data from different la
 ### **4.1 Prerequisites**
 Ensure you have the following libraries installed before running the code:  
 ```bash
-pip install numpy pandas matplotlib seaborn sklearn xgboost tensorflow transformers
+pip install numpy pandas matplotlib seaborn sklearn xgboost tensorflow transformers '
 
 4.2 Running the Notebook
 
