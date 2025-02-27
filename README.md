@@ -1,9 +1,4 @@
-Here’s your full README.md file in proper markdown formatting:
-
-
----
-
-# Multilingual Natural Language Inference (NLI) Model
+# Text Pair Classification 
 
 ## **1. Project Overview**
 This project focuses on **Natural Language Inference (NLI)**, a crucial task in Natural Language Processing (NLP), where models classify the relationship between sentence pairs into three categories:  
